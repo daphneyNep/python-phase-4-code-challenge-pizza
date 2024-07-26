@@ -4,6 +4,7 @@ from models import db, Restaurant, Pizza, RestaurantPizza
 from faker import Faker
 
 
+
 class TestRestaurantPizza:
     '''Class RestaurantPizza in models.py'''
 
